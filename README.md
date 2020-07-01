@@ -1,2 +1,2 @@
 # Git beginners tutorial
-This is a tutorial readme fiile.
+This is a tutorial readme fiile.git 
